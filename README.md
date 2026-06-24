@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/N1khil-09/Leetcode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/N1khil-09/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/N1khil-09/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/N1khil-09/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/N1khil-09/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2951-find-the-peaks](https://github.com/N1khil-09/Leetcode/tree/master/2951-find-the-peaks) |
 ## Two Pointers
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/N1khil-09/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/N1khil-09/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/N1khil-09/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/N1khil-09/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Union-Find
 |  |
 | ------- |
