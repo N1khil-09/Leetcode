@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/N1khil-09/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/N1khil-09/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/N1khil-09/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/N1khil-09/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2951-find-the-peaks](https://github.com/N1khil-09/Leetcode/tree/master/2951-find-the-peaks) |
 ## Two Pointers
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/N1khil-09/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/N1khil-09/Leetcode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/N1khil-09/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/N1khil-09/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sliding Window
 |  |
 | ------- |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/N1khil-09/Leetcode/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/N1khil-09/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
