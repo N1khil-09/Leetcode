@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/N1khil-09/Leetcode/tree/master/0048-rotate-image) |
 | [0119-pascals-triangle-ii](https://github.com/N1khil-09/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/N1khil-09/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/N1khil-09/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/N1khil-09/Leetcode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/N1khil-09/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/N1khil-09/Leetcode/tree/master/0229-majority-element-ii) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/N1khil-09/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/N1khil-09/Leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/N1khil-09/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/N1khil-09/Leetcode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/N1khil-09/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/N1khil-09/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/N1khil-09/Leetcode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/N1khil-09/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Sliding Window
@@ -73,5 +76,10 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/N1khil-09/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/N1khil-09/Leetcode/tree/master/0229-majority-element-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/N1khil-09/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
