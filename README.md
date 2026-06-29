@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/N1khil-09/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/N1khil-09/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/N1khil-09/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/N1khil-09/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2951-find-the-peaks](https://github.com/N1khil-09/Leetcode/tree/master/2951-find-the-peaks) |
 ## Two Pointers
 |  |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/N1khil-09/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## String
+|  |
+| ------- |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/N1khil-09/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 <!---LeetCode Topics End-->
