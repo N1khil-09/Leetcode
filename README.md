@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/N1khil-09/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/N1khil-09/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/N1khil-09/Leetcode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/N1khil-09/Leetcode/tree/master/0053-maximum-subarray) |
 | [0119-pascals-triangle-ii](https://github.com/N1khil-09/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/N1khil-09/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/N1khil-09/Leetcode/tree/master/0169-majority-element) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/N1khil-09/Leetcode/tree/master/0053-maximum-subarray) |
 | [0119-pascals-triangle-ii](https://github.com/N1khil-09/Leetcode/tree/master/0119-pascals-triangle-ii) |
 ## Counting
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/N1khil-09/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/N1khil-09/Leetcode/tree/master/0169-majority-element) |
 ## Greedy
 |  |
