@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1288-remove-covered-intervals](https://github.com/N1khil-09/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/N1khil-09/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/N1khil-09/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/N1khil-09/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/N1khil-09/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/N1khil-09/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/N1khil-09/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/N1khil-09/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/N1khil-09/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3903-smallest-stable-index-i](https://github.com/N1khil-09/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/N1khil-09/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Dynamic Programming
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/N1khil-09/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/N1khil-09/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Depth-First Search
 |  |
