@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/N1khil-09/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/N1khil-09/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/N1khil-09/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0771-jewels-and-stones](https://github.com/N1khil-09/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/N1khil-09/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2540-minimum-common-value](https://github.com/N1khil-09/Leetcode/tree/master/2540-minimum-common-value) |
 ## Union-Find
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/N1khil-09/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/N1khil-09/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/N1khil-09/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/N1khil-09/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
