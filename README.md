@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/N1khil-09/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/N1khil-09/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2540-minimum-common-value](https://github.com/N1khil-09/Leetcode/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/N1khil-09/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2951-find-the-peaks](https://github.com/N1khil-09/Leetcode/tree/master/2951-find-the-peaks) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/N1khil-09/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3903-smallest-stable-index-i](https://github.com/N1khil-09/Leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0771-jewels-and-stones](https://github.com/N1khil-09/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/N1khil-09/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2540-minimum-common-value](https://github.com/N1khil-09/Leetcode/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/N1khil-09/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Union-Find
 |  |
 | ------- |
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/N1khil-09/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/N1khil-09/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/N1khil-09/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->
