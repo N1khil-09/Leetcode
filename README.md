@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/N1khil-09/Leetcode/tree/master/0771-jewels-and-stones) |
+| [1021-remove-outermost-parentheses](https://github.com/N1khil-09/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/N1khil-09/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/N1khil-09/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/N1khil-09/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/N1khil-09/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/N1khil-09/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/N1khil-09/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/N1khil-09/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Geometry
 |  |
 | ------- |
@@ -215,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/N1khil-09/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/N1khil-09/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
