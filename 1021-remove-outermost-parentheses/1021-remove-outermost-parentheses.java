@@ -1,28 +1,24 @@
 class Solution {
     public String removeOuterParentheses(String s) {
-        List<String> ans = new ArrayList<>();
+        String ans = "";
         int c=0;
         String valid = "";
+        int index=0;
         for(int i = 0; i<s.length(); i++){
             
             if(s.charAt(i)=='('){
-                valid+=s.charAt(i);
+                
                 c++;
             }
             else if (s.charAt(i) == ')'){
-                valid+=s.charAt(i);
                 c--;
             } 
             if(c==0){
-                ans.add(valid);
-                valid="";
+                ans+=s.substring(index+1,i);
+                index=i+1;
             }
         }
-        String res="";
-        for(String x : ans){
-            res+=x.substring(1,x.length()-1);
-        }
-        return res;
+        return ans;
         
     }
 }
