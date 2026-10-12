@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/N1khil-09/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2540-minimum-common-value](https://github.com/N1khil-09/Leetcode/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/N1khil-09/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/N1khil-09/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/N1khil-09/Leetcode/tree/master/2951-find-the-peaks) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/N1khil-09/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3903-smallest-stable-index-i](https://github.com/N1khil-09/Leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/N1khil-09/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/N1khil-09/Leetcode/tree/master/2951-find-the-peaks) |
 ## Matrix
 |  |
