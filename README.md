@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/N1khil-09/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/N1khil-09/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/N1khil-09/Leetcode/tree/master/2951-find-the-peaks) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/N1khil-09/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/N1khil-09/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3903-smallest-stable-index-i](https://github.com/N1khil-09/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/N1khil-09/Leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/N1khil-09/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2785-sort-vowels-in-a-string](https://github.com/N1khil-09/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/N1khil-09/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/N1khil-09/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/N1khil-09/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/N1khil-09/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/N1khil-09/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/N1khil-09/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/N1khil-09/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## String
 |  |
 | ------- |
