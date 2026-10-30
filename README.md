@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/N1khil-09/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/N1khil-09/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/N1khil-09/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/N1khil-09/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/N1khil-09/Leetcode/tree/master/2540-minimum-common-value) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/N1khil-09/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/N1khil-09/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/N1khil-09/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/N1khil-09/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/N1khil-09/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Geometry
 |  |
 | ------- |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0021-merge-two-sorted-lists](https://github.com/N1khil-09/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/N1khil-09/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0234-palindrome-linked-list](https://github.com/N1khil-09/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/N1khil-09/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
